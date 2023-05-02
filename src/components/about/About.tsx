@@ -1,10 +1,8 @@
-import React from 'react'
+import React from "react";
 import "./about.css";
 
 const About = () => {
-  return (
-    <section id='about'>about</section>
-  )
-}
+  return <section id="about">about</section>;
+};
 
-export default About
+export default About;
